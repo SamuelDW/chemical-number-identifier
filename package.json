@@ -1,0 +1,39 @@
+{
+  "name": "@kpopfan4life/chemical-number-identifier",
+  "version": "1.0.0",
+  "description": "A series of functions to determine a chemical number, as well as if it is formatted and valid",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha './test/**/*.test.js'",
+    "lint": "npx eslint index.js util.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelDW/chemical-number-identifier.git"
+  },
+  "keywords": [
+    "chemical-numbers",
+    "cas",
+    "ec",
+    "ke",
+    "regulations"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelDW/chemical-number-identifier/issues"
+  },
+  "homepage": "https://github.com/SamuelDW/chemical-number-identifier#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^10.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
