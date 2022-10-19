@@ -1,5 +1,5 @@
 {
-  "name": "@kpopfan4life/chemical-number-identifier",
+  "name": "@kpopfan4life/chemical-number-validification-identification",
   "version": "1.0.0",
   "description": "A series of functions to determine a chemical number, as well as if it is formatted and valid",
   "main": "index.js",
