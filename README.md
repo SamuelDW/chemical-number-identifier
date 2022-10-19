@@ -3,7 +3,7 @@ A series of functions that allow you to identify chemical regulation numbers, if
 
 ## Installing and Using the Package
 ```
-    npm i kpopfan4life/chemical-number-identifier
+    npm i @kpopfan4life/chemical-number-validification-identification
 ```
 
 ```js
